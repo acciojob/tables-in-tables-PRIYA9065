@@ -1,2 +1,8 @@
 
 /* Your CSS Code here. */
+*{
+	box-sizing: border-box;
+}
+table, tr, th, td{
+	border: 1px solid black;
+}
